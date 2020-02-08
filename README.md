@@ -18,8 +18,8 @@ Git commands are:
 ```
 git status
 git branch
-```
 
+```
 
 ## list
 * item 1
@@ -33,7 +33,4 @@ git branch
 1. Item 3
 	1. Item 3a
 	1. Item 3b
-
- 
-
 
