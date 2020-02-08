@@ -22,7 +22,9 @@
 	1. Item 3b
 
 ## Inline code
-I think you should use an
-`<addr>` element here instead.
+Code example
+`int a =5`
+`int b =6`
+ 
 
 
