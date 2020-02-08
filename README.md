@@ -6,11 +6,9 @@
 ###### src 6
 
 ## Emphasis
-*test*
-_test_
 **test**
-__test__
-_test **xaxa** test_
+*xaxa*
+_test 1_
 
 ## list
 * item 1
