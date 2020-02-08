@@ -6,7 +6,20 @@
 ###### src 6
 
 ## Emphasis
-**test**
+**bold text**
+_italic text_
+~~mistaken text~~
+
+## Quoting
+> Quoting text
+
+## Quoting code
+Git commands are:
+```
+git status
+git branch
+```
+
 
 ## list
 * item 1
