@@ -7,8 +7,6 @@
 
 ## Emphasis
 **test**
-*xaxa*
-_test 1_
 
 ## list
 * item 1
