@@ -34,12 +34,6 @@ git branch
 	1. Item 3a
 	1. Item 3b
 
-## Inline code
-Code example
-`
-int a =5
-int b =6
-`
  
 
 
