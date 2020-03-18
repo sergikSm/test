@@ -34,7 +34,7 @@ git branch
 	1. Item 3a
 	1. Item 3b
 ## Contents
-- [Platforms](#platforms)
+- [Platforms](#Test1)
 
 ## Test1
 test
