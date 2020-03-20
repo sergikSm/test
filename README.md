@@ -39,7 +39,7 @@ git branch
 - [Test3](#Test3)
 
 ## Test1
-- [arduno](https://github.com/sergikSm/Arduino) Arduino
+- [arduino](https://github.com/sergikSm/Arduino) Arduino
 ## Test2
 test
 ## Test3
