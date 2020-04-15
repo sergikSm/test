@@ -38,7 +38,7 @@ int main () {
 	1. Item 3a
 	1. Item 3b
 ## Contents
-- [Test1](#Test1 test)
+- [Test1 test](#Test1)
 - [Test2](#Test3)
 - [Test3](#Test3)
 - [To-Do](#To-Do list)
