@@ -38,10 +38,10 @@ int main () {
 	1. Item 3a
 	1. Item 3b
 ## Contents
-- [Test1](#Test1)
+- [Test1](https://github.com/sergikSm/test/blob/master/README.md#test1-test)
 - [Test2](#Test3)
 - [Test3](#Test3)
-- [To Do](#To-Do list)
+- [To Do](#to-do list)
 
 ## Test1 test
 - [arduino](https://github.com/sergikSm/Arduino) Arduino
