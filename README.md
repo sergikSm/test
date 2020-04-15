@@ -20,7 +20,11 @@ git status
 git branch
 
 ```
-
+```c++
+int main () {
+ char *buffer;
+}
+```
 ## list
 * item 1
 * item 2
