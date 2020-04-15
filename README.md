@@ -41,7 +41,7 @@ int main () {
 - [Test1 test](#Test1)
 - [Test2](#Test3)
 - [Test3](#Test3)
-- [To-Do list](#To-Do)
+- [To-Do](#To-Do list)
 
 ## Test1 test
 - [arduino](https://github.com/sergikSm/Arduino) Arduino
