@@ -1,3 +1,7 @@
+---
+layout: default
+title: Home
+---
 # headers
 
 # src 1
@@ -42,7 +46,6 @@ int main () {
 - [Test2](#Test3)
 - [Test3](#Test3)
 - [To Do](#to-do-list)
-- [ASCII doc] (#ASCII_doc)
 
 ## Test1 test
 - [arduino](https://github.com/sergikSm/Arduino) Arduino
@@ -55,7 +58,3 @@ test
 - [ ] Thing2
 - [ ] Thing3
 
-## ASCII doc
-[red]#Obvious# and [big red yellow-background]*very obvious*.
-[underline]#Underline text#, [overline]#overline text# and
-[blue line-through]*bold blue and line-through*.
