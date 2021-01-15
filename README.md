@@ -1,3 +1,7 @@
+---
+layout: default
+title: Home
+---
 # headers
 
 # src 1
@@ -20,7 +24,11 @@ git status
 git branch
 
 ```
-
+```c++
+int main () {
+ char *buffer;
+}
+```
 ## list
 * item 1
 * item 2
@@ -33,3 +41,20 @@ git branch
 1. Item 3
 	1. Item 3a
 	1. Item 3b
+## Contents
+- [Test1](https://github.com/sergikSm/test/blob/master/README.md#test1-test)
+- [Test2](#Test3)
+- [Test3](#Test3)
+- [To Do](#to-do-list)
+
+## Test1 test
+- [arduino](https://github.com/sergikSm/Arduino) Arduino
+## Test2
+test
+## Test3
+test
+## To-Do list
+- [x] Thing1
+- [ ] Thing2
+- [ ] Thing3
+
