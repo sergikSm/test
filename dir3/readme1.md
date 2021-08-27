@@ -6,3 +6,4 @@ test branch master
 branch test
 branch test 2
 Sergey 1
+Sergey 1+2
